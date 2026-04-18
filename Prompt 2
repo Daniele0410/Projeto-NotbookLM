@@ -1,0 +1,67 @@
+Pergunta: 
+
+Explique de forma clara e objetiva o que um investidor iniciante deve saber sobre investimentos na bolsa de valores. Explique em um 
+formato de tópicos, começando pelas informações mais simples e terminando nas mais elaboradas. Exemplo, começando com uma explicação 
+de como investir na bolsa e terminando em investimentos internacionais.
+--------------------------------------------------------------------------------------------------------------------------------------
+Resposta :
+
+Investir na bolsa de valores é um processo que envolve desde a compreensão básica do que é uma empresa até a diversificação em ativos 
+globais. Abaixo, apresento um guia em tópicos, do mais simples ao mais elaborado, para o investidor iniciante:
+
+1. O que é a Bolsa e o que são Ações
+
+	• Definição: A bolsa de valores (no Brasil, a B3) é um mercado organizado que funciona como um intermediário, conectando empresas 
+    que precisam de capital com investidores que desejam aplicar seus recursos.
+	• O que são ações: Uma ação representa a menor parcela do capital social de uma empresa. Ao comprar uma ação, você se torna sócio 
+    (acionista) daquela companhia e passa a participar de seus lucros e de seu crescimento.
+
+2. Como Começar a Investir
+	• Reserva de Emergência: Antes de ir para a bolsa, é fundamental ter uma reserva em renda fixa de fácil acesso para imprevistos.
+	• Perfil do Investidor: Você deve identificar se é conservador, moderado ou arrojado. Isso define sua tolerância às oscilações de 
+    preço (volatilidade).
+	• Corretora de Valores: Para operar na bolsa, você deve abrir conta em uma corretora, que enviará suas ordens de compra e venda para 
+    o sistema da B3.
+	• Home Broker: É a plataforma digital da corretora onde você digita o ticker (código) da ação e envia suas ordens pela internet.
+
+3. Dinâmica do Mercado e Códigos
+	• Mercado Primário vs. Secundário: No primário, você compra ações diretamente da empresa (como em um IPO). No secundário, você
+    negocia ações com outros investidores.
+	• Tipos de Ações e Tickers:
+		○ Ordinárias (ON) - Final 3: Dão direito a voto nas assembleias.
+		○ Preferenciais (PN) - Final 4: Dão preferência no recebimento de dividendos (parcela do lucro).
+		○ Units - Final 11: São "pacotes" que combinam ações ON e PN.
+	
+4. Estratégias e Análise
+	• Análise Fundamentalista: Foca na saúde financeira da empresa (lucro, endividamento, gestão) para investimentos de longo prazo.
+	• Análise Técnica: Estuda os movimentos de preços e volumes através de gráficos para identificar tendências, geralmente usada para 
+    prazos menores.
+	• Buy and Hold: Estratégia de comprar ações de boas empresas e mantê-las por tempo indeterminado para colher dividendos e valorização 
+    histórica.
+	• Diversificação: É a regra de "não colocar todos os ovos na mesma cesta", dividindo seu capital entre diferentes empresas, setores 
+    e classes de ativos para reduzir riscos.
+
+5. Riscos e Custos
+	• Riscos: O principal é o risco de mercado (oscilação dos preços). Há também o risco de liquidez, que é a dificuldade de vender um 
+    ativo rapidamente por um preço justo.
+	• Custos: Incluem a taxa de corretagem (paga à corretora), taxas da B3 (emolumentos e custódia) e o Imposto de Renda 
+    (geralmente 15% sobre o lucro em ações, ou 20% em operações de um único dia — day trade).
+
+6. Outros Ativos na Bolsa
+	• FIIs (Fundos Imobiliários): Permitem investir em imóveis (shoppings, galpões) através de cotas, com recebimento mensal de 
+    "aluguéis" isentos de IR para pessoa física.
+	• ETFs (Fundos de Índice): Fundos que replicam um índice (como o Ibovespa ou o S&P 500), sendo uma forma simples e barata de 
+    diversificar em dezenas de ações de uma vez.
+
+7. Investimentos Internacionais
+	• Por que investir fora: Serve para dolarizar parte do patrimônio, diversificar geograficamente e acessar setores que não existem 
+    na bolsa brasileira.
+	• Caminhos para investir:
+		○ BDRs (Brazilian Depositary Receipts): São recibos negociados na bolsa brasileira que representam ações de empresas estrangeiras
+      (como Apple ou Google). Você compra em reais pela sua corretora no Brasil.
+		○ Investimento Direto: Consiste em abrir conta em uma corretora no exterior (ex: nos EUA) para comprar ações e ativos diretamente 
+      nos mercados globais.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Eu tentei usar alguns exeplos que foi dado nas aulas de criação de Prompts e gostei bastante da resposta, ele seguiu tudo o que eu
+especifiquei e pedi.
