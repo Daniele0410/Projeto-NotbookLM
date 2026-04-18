@@ -42,4 +42,4 @@ Tema: Assunto financeiro introdutório
 
 As coisas liatadas não estão marcadas por uma ordem de importância, eu só fui escrevendo conforme eu fui elaborando ou achando necessário abordar o assunto.
 
-Usando esse mapa eu consegui achar conteúdos muito relevantes. Ao todo eu consegui coletar 49 fontes. Foi difícil achar textos e vídeos que explicassem esse tema de uma forma clara e eficiente, obviamente eu não li e nem assisti todos os conteúdos, mas fiz questão de procurar conteúdos introdutórios ou para iniciantes. Eu acho que consegui trazer uma boa base de dados. Vou trazer arquivos de alguns links usados e de Prompts que criei para testa a IA.
+Usando esse mapa eu consegui achar conteúdos muito relevantes. Ao todo eu consegui coletar 49 fontes. Foi difícil achar textos e vídeos que explicassem esse tema de uma forma clara e eficiente, obviamente eu não li e nem assisti todos os conteúdos, mas fiz questão de procurar conteúdos introdutórios ou para iniciantes.
